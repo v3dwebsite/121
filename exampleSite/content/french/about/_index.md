@@ -1,10 +1,8 @@
 ---
 title: Qui sommes-nous?
-bg_image: images/backgrounds/page-title.jpg
+bg_image: "/images/img-20180319-wa0015-396x540.jpg"
 image: images/about/about-page.jpg
-description: Soucieux de protéger votre environnement et d’assurer votre hygiène,
-  nous nous mettons à votre entière disposition pour des traitements préventifs et
-  curatifs efficaces.
+description: À propos de V3D
 
 ---
 ## À propos de V3D
