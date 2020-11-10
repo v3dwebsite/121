@@ -1,71 +1,45 @@
 ---
-title: "Vlogging"
-date: 2019-07-06T15:27:17+06:00
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# course thumbnail
-image: "images/courses/course-6.jpg"
-# taxonomy
-category: "Photography"
-# teacher
-teacher: "Duis Rio"
-# duration
-duration : "06 Month"
-# weekly
-weekly : "03 hours"
-# course fee
-fee : "From: $699"
-# apply url
-apply_url : "#"
-# type
-type: "course"
+title: Cage de capture pour Rats
+date: 2020-11-08T23:00:00+00:00
+bg_image: "/images/whatsapp-image-2020-11-07-at-19-45-21-1.jpeg"
+description: |-
+  La Cage de capture pour Rats est construite en fil d’acier électro-soudé et galvanisé avec un maillage rectangulaire de 12x45mm pour éviter que les rongeurs capturés puissent ressortir.
+
+  Ce piège est destiné à la lutte dite « écologique » à savoir sans procédés chimiques, ce qui en fait un outil très utile pour les sites sensibles (industries agro-alimentaires) ou pour les traitements en extérieur dans le cadre de captures vivantes (jardin, ferme, parc, terrain privé).
+
+  La Cage de capture pour Rats piège des prises vivantes (Rat Brun, Rat noir et autres rongeurs de taille approchante) et sans souffrance.
+image: "/images/img-20180319-wa0022-1-1024x682.jpg"
+category: Spécial lutte non-chimique
+teacher: ''
+duration: ''
+weekly: ''
+fee: ''
+apply_url: ''
+type: Produit
+
 ---
+### Mode d'emploi
 
+Le piège est livré plié et sera facile à monter. Il est constitué de plusieurs éléments :  
+– une porte d’entrée à fixer à deux ressorts (fournis) avant d’assurer un mécanisme de fermeture rapide.  
+– une trappe de prélèvement à l’opposée de la porte d’entrée (à bloquer dans le maillage de la cage)  
+– d’un porte appât à relier délicatement au mécanisme de la porte d’entrée. Poser préalablement un attractif non- chimique en vous basant sur ce que le rongeur consomme sur place (fruit, fromage, viande….)
 
-### About Course
+**A son entrée, le rongeur essaiera de retirer l’appât ce qui déclenchera immédiatement la fermeture de la porte.**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+### Caractéristiques
 
-### Requirements
+* **Cage pliable en métal et galvanisé**
+* Utilisable intérieur et extérieur
+* Très compact = discret et non encombrant
+* **Destiné à la capture des Rats**
 
+### Plus de détails
 
+Caractéristiques	Cible(s)	Dimensions	Référence(s)
+Cage de capture pour Rats
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+En acier galvanisé
 
-
-### How to Apply
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-
-
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Rat Brun, Rat Noir	22,5 x 15 x 10 cm	189-SMA
+Vendu à l’unité
