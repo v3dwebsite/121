@@ -1,59 +1,40 @@
 ---
-title: "Alex Rook"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# teacher portrait
-image: "images/teachers/teacher-2.jpg"
-# course
-course: "Vlogging"
-# biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
-# interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
-# contact info
+title: Mogqdor
+bg_image: "/images/flyer-desinfection.jpg"
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
+image: "/images/grand-mogador1.jpg"
+course: Vlogging
+bio: ''
+interest:
+- Computer Networking
+- Computer Security
+- Human Computer Interfacing
 contact:
-  # contact item loop
-  - name : "clarkmalik@email.com"
-    icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:clarkmalik@email.com"
+- name: clarkmalik@email.com
+  icon: ti-email
+  link: mailto:clarkmalik@email.com
+- name: "+12 034 5876"
+  icon: ti-mobile
+  link: tel:+120345876
+- name: Clark Malik
+  icon: ti-facebook
+  link: "#"
+- name: Clark Malik
+  icon: ti-twitter-alt
+  link: "#"
+- name: Clark Malik
+  icon: ti-skype
+  link: "#"
+- name: clarkmalik.com
+  icon: ti-world
+  link: "#"
+- name: 1313 Boulevard Cremazie,Quebec
+  icon: ti-location-pin
+  link: "#"
 
-  # contact item loop
-  - name : "+12 034 5876"
-    icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
-
-  # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-skype" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "clarkmalik.com"
-    icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "1313 Boulevard Cremazie,Quebec"
-    icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-# type
-type: "teacher"
 ---
-
 ### About Me
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
