@@ -12,7 +12,7 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = "2"
 [[Languages.en.menu.footer]]
 name = "teacher"
 url = "teacher"
@@ -74,7 +74,7 @@ copyright = "Copyright &copy; 2020 a  theme by [Hamza](https://t.me/rafahamza)"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = "1"
 [[Languages.fr.menu.footer]]
 name = "teacher"
 url = "teacher"
