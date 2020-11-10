@@ -44,7 +44,7 @@ slider:
     animation_in: left
 banner_feature:
   enable: true
-  image: "/images/15.png"
+  image: "/images/zu.JPG"
   feature_item:
   - name: Filtration
     icon: ti-filter
