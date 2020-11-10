@@ -139,7 +139,7 @@ email = "Ericcoulon4@gmail.com"
 google_analitycs_id = ""
 logo = "/images/4755.png"
 mobile = "+212 661-786111"
-top_header = true
+top_header = false
 [params.cookies]
 enable = false
 expire_days = "2"
