@@ -5,7 +5,7 @@ paginate = "6"
 summaryLength = "10"
 theme = "V3D"
 themesDir = "../.."
-title = "V3D | Le spécialiste de la dératisation, la désinsectisation, la désinfection et capture des chats et chiens errants"
+title = "V3D | Eco Solutions Pour Un habitat sain"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
