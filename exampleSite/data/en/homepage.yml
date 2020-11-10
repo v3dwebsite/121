@@ -3,6 +3,14 @@ slider:
   enable: true
   bg_image: "/images/hac_3116-825x409.jpg"
   slider_item:
+  - title: Filtration
+    content: Fontaine filtrante
+    animation_in: Left
+    animation_out: Right
+    button:
+      enable: true
+      label: Contactez-nous
+      link: contact
   - title: Dératisation
     content: Notre mission consiste à éliminer les rongeurs, rats et souris de vos
       locaux d&rsquo;habitation ou de travail. Nous apportons des solutions professionnelles
