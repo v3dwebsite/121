@@ -46,6 +46,9 @@ banner_feature:
   enable: true
   image: "/images/15.png"
   feature_item:
+  - name: Filtration
+    icon: ti-filter
+    content: ''
   - name: Dératisation
     icon: ti-reedit
     content: Notre mission consiste à éliminer les rongeurs, rats et souris de vos
