@@ -54,12 +54,13 @@ slider:
     button: ''
 banner_feature:
   enable: true
-  image: images/banner/banner-feature.png
+  image: "/images/15.png"
   feature_item:
-  - name: Scholorship News
-    icon: ti-book
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+  - name: Dératisation
+    icon: "/images/deratisation.png"
+    content: Notre mission consiste à éliminer les rongeurs, rats et souris de vos
+      locaux d&rsquo;habitation ou de travail. Nous apportons des solutions professionnelles
+      préventives et curatives.
   - name: Our Notice Board
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
