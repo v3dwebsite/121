@@ -1,11 +1,11 @@
 baseURL = "http://v3d-test.netlify.com"
 disableLanguages = []
-disqusShortname = "educenter"
+disqusShortname = "V3D"
 paginate = "6"
 summaryLength = "10"
-theme = "educenter-hugo"
+theme = "V3D"
 themesDir = "../.."
-title = "V3d | Le spécialiste de la dératisation, la désinsectisation, la désinfection et capture des chats et chiens errants"
+title = "V3D | Le spécialiste de la dératisation, la désinsectisation, la désinfection et capture des chats et chiens errants"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -135,10 +135,10 @@ address = "marrakechh"
 author = "Hamza"
 contact_form_action = "#"
 description = "This is meta description"
-email = "info@educenter.com"
+email = "Ericcoulon4@gmail.com"
 google_analitycs_id = ""
-logo = "images/logo.png"
-mobile = "+211234565523"
+logo = "/images/output-onlinepngtools-1.png"
+mobile = "+212 661-786111"
 top_header = true
 [params.cookies]
 enable = false
