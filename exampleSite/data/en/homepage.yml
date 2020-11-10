@@ -42,16 +42,6 @@ slider:
     content: Nous proposons des solutions efficaces pour empêcher les pigeons de s'installer
       sur les toits de votre maison, ou de votre espace de travail.
     animation_in: left
-  - title: ''
-    content: ''
-    animation_in: ''
-    animation_out: ''
-    button: ''
-  - title: ''
-    content: ''
-    animation_in: ''
-    animation_out: ''
-    button: ''
 banner_feature:
   enable: true
   image: "/images/15.png"
