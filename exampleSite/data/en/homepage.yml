@@ -56,7 +56,9 @@ banner_feature:
   feature_item:
   - name: Filtration
     icon: ti-filter
-    content: ''
+    content: V3D offre toute une gamme de produits de filtration à destination des
+      professionnels et des particuliers qui ont besoin de traiter l'eau de leurs
+      puits ou de leurs réseaux actuels.
   - name: Dératisation
     icon: ti-na
     content: Notre mission consiste à éliminer les rongeurs, rats et souris de vos
