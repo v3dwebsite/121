@@ -33,6 +33,25 @@ slider:
       enable: true
       label: Contactez-nous
       link: contact
+  - animation_out: right
+    button:
+      enable: true
+      label: Contactez-nous
+      link: contact
+    title: Dépigeonnisation
+    content: Nous proposons des solutions efficaces pour empêcher les pigeons de s&rsquo;installer
+      sur les toits de votre maison, ou de votre espace de travail.
+    animation_in: left
+  - title: ''
+    content: ''
+    animation_in: ''
+    animation_out: ''
+    button: ''
+  - title: ''
+    content: ''
+    animation_in: ''
+    animation_out: ''
+    button: ''
 banner_feature:
   enable: true
   image: images/banner/banner-feature.png
