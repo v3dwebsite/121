@@ -103,7 +103,7 @@ event:
   enable: false
   title: Upcoming Events
 funfacts:
-  enable: false
+  enable: true
   funfact_item:
   - name: Clients Satisfaits
     count: "45000"
