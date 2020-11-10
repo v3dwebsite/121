@@ -131,10 +131,10 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-address = "marrakechh"
+address = ""
 author = "Hamza"
 contact_form_action = "#"
-description = "This is meta description"
+description = "V3D est l’une des spécialistes en matière de dératisation, désinsectisation désinfection capture des chats et chiens errant au Maroc."
 email = "Ericcoulon4@gmail.com"
 google_analitycs_id = ""
 logo = "/images/output-onlinepngtools-1.png"
@@ -144,7 +144,7 @@ top_header = true
 enable = false
 expire_days = "2"
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -180,7 +180,7 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/V3dMarrakech"
 title = "facebook"
 [[params.social]]
 icon = "ti-twitter-alt"
@@ -190,11 +190,3 @@ title = "twitter"
 icon = "ti-instagram"
 link = "#"
 title = "instagram"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-title = "linkedin"
