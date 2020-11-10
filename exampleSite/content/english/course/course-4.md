@@ -1,71 +1,37 @@
 ---
-title: "JavaScript"
-date: 2019-07-06T15:27:17+06:00
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# course thumbnail
-image: "images/courses/course-4.jpg"
-# taxonomy
-category: "Programming"
-# teacher
-teacher: "Devid Luis"
-# duration
-duration : "06 Month"
-# weekly
-weekly : "03 hours"
-# course fee
-fee : "From: $699"
-# apply url
-apply_url : "#"
-# type
-type: "course"
+title: MASTERBOX PLUS TRANSPARENT
+date: 2020-11-09T10:27:17+00:00
+bg_image: ''
+description: ''
+image: "/images/masterbox-plus.jpg"
+category: ''
+teacher: ''
+duration: ''
+weekly: ''
+fee: ''
+apply_url: ''
+
 ---
+### Description
 
+Masterbox Plus est une poste d’appatâge écologique, adapte à tous les exigences de dératisation et désinsectisation. Spécialement conçu pour l’utilisation dans les entreprises alimentaires, il est doté d’un couvercle transparent et d’une mangeoire amovible pour le positionnement des bassinets de colle contre rats et souris.  
+En usage classique, Masterbox Plus est doté d’une mangeoire qui peut contenir appâts raticides en blocs, en graine ou liquides et en même temps il peut être utilisé pour le monitorage des insectes rampants grâce aux fissures présentes sur la partie inferieur di piège.  
+Voici une liste des caractéristiques qui rende Masterbox Plus un poste d’appatâge polyvalente qui réponde à toutes les exigences des professionnelles de la dératisation.
 
-### About Course
+### Plus d'information
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+* ‐ Construit en polypropylène antichoc, traité anti‐UV pour résister aux agents atmosphériques ‐ Doté de couvercle en PP transparent  
+  ‐Doté de fermeture de sécurité  
+  ‐ Doté de support en acier inox pour placer les appâts en horizontal  
+  ‐ Doté de supports pour placer les appâts en vertical  
+  ‐ Doté d’une cage pour placer les raticides liquides  
+  ‐ Mangeoire extractible pour un plus facile et rapide nettoyage et entretien du poste.  
+  ‐ Monitorage des insectes rampants en multi‐usage avec les appâts raticide  
+  ‐ Doté d’un espace de 2 cm sous la mangeoire pour placer les pièges collants avec attractifs alimentaires pour le monitorage des blattes  
+  ‐ Adapte pour contenir les tapettes à souris plus communes sur le marché  
+  ‐Nouveau système de fixage, qui permet aux opérateurs un rapide déblocage en favorisant un entretien plus rapide  
+  En dotation: entretoise pour le fixage au murs ou au poteaux, support en acier inox pour le fixage de l’appât en horizontal, 3 supports verticaux en plastic pour fixer l’appât, support pour un rapide déblocage, 1 clef de sécurité. Renseignements Techniques
 
-### Requirements
+### Caractéristiques Techniques
 
-
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
-
-### How to Apply
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-
-
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+![](/images/master-box-plus-transparent-caracteristiques-768x226.png)
