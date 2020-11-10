@@ -51,10 +51,11 @@ banner_feature:
     content: Notre mission consiste à éliminer les rongeurs, rats et souris de vos
       locaux d&rsquo;habitation ou de travail. Nous apportons des solutions professionnelles
       préventives et curatives.
-  - name: Our Notice Board
+  - name: Désinsectisation
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: Blattes, guêpes, frelons, puces, punaises de lits, fourmis, etc. Nous
+      éliminons toute sorte d&rsquo;insectes qui vous nui dans votre habitation ou
+      votre espace de travail.
   - name: Our Achievements
     icon: ti-agenda
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
