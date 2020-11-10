@@ -69,13 +69,13 @@ banner_feature:
     content: Nous proposons des solutions efficaces pour empêcher les pigeons de s&rsquo;installer
       sur les toits de votre maison, ou de votre espace de travail.
 about:
-  enable: true
+  enable: false
   title: Derniers produits ajoutés
   image: images/about/about-us.jpg
   content: Derniers produits ajoutés
   button:
     enable: true
-    label: Learn more
+    label: Nos Produits
     link: about
 course:
   enable: true
