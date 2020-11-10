@@ -82,10 +82,10 @@ course:
   title: Derniers produits ajoutés
 cta:
   enable: true
-  subtitle: Si vous êtes à la recherche de spécialistes dans la dératisation, désinsectisation,
+  subtitle: ''
+  title: Si vous êtes à la recherche de spécialistes dans la dératisation, désinsectisation,
     désinfection, etc. n'hésitez pas de nous appeler à 0661354417 pour demander un
     diagnostic GRATUIT!
-  title: ''
   button:
     enable: true
     label: C'EST GRATUIT!
