@@ -5,7 +5,7 @@ paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
 themesDir = "../.."
-title = "Educenter | hugo education template"
+title = "V3d | Le spécialiste de la dératisation, la désinsectisation, la désinfection et capture des chats et chiens errants"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
