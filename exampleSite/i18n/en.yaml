@@ -51,7 +51,7 @@
   translation: Join
 - id: enter_email
   translation: Enter your email…
-- id: company
+- id: Société
   translation: company
 - id: links
   translation: links
@@ -59,7 +59,7 @@
   translation: Courses
 - id: new_notice
   translation: new notice
-- id: call
+- id: E
   translation: call
 - id: email
   translation: email
