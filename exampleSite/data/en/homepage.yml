@@ -1,6 +1,6 @@
 ---
 slider:
-  enable: false
+  enable: true
   bg_image: "/images/hac_3116-825x409.jpg"
   slider_item:
   - title: Filtration
