@@ -118,5 +118,5 @@ funfacts:
   - name: Clients Satisfaits
     count: "45000"
 blog:
-  enable: true
+  enable: false
   title: Ils nous font confiance
