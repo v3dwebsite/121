@@ -55,8 +55,8 @@
   translation: company
 - id: links
   translation: links
-- id: courses
-  translation: Courses
+- id: GOOOL
+  translation: GOOOOL
 - id: new_notice
   translation: new notice
 - id: E
