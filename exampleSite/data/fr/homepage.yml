@@ -120,14 +120,14 @@ event:
 funfacts:
   enable: true
   funfact_item:
-  - name: ENSEIGNANTS
-    count: "60"
-  - name: COURS
-    count: "50"
-  - name: ÉTUDIANTS
-    count: "1000"
-  - name: CLIENTS SATISFAITS
-    count: "1400"
+  - name: Nos Employés
+    count: "120"
+  - name: Nos Produits
+    count: "65"
+  - name: Nous Opérations
+    count: "1560"
+  - name: Nos Clients Satisfaits
+    count: "1200"
 blog:
   enable: true
   title: DERNIÈRES NOUVELLES
