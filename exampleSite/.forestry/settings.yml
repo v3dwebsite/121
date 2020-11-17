@@ -4,8 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: new1
 - type: directory
   path: exampleSite/content/french/blog
   label: Post (fr)
