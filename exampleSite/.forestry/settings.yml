@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
+  label: new1
 - type: directory
   path: exampleSite/content/french/blog
   label: Post (fr)
@@ -21,7 +21,7 @@ sections:
   templates:
   - post
 - type: heading
-  label: Author
+  label: Doiiif3
 - type: directory
   path: exampleSite/content/french/author
   label: Author (fr)
@@ -37,7 +37,7 @@ sections:
   templates:
   - author
 - type: heading
-  label: Course
+  label: C NOUVEUS
 - type: directory
   path: exampleSite/content/french/course
   label: Course (fr)
