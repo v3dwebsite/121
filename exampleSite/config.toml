@@ -119,7 +119,7 @@ description = "V3D est l’une des spécialistes en matière de dératisation, d
 Email = "Ericcoulon4@gmail.com"
 google_analitycs_id = ""
 logo = "/images/4755.png"
-Phone Mobile = "+212 661-786111"
+Mobile = " +212 661-786111"
 top_header = true
 [params.cookies]
 enable = false
