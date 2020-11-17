@@ -46,24 +46,40 @@ slider:
       link: contact
 banner_feature:
   enable: true
-  image: images/banner/banner-feature.png
+  image: "/images/zu.JPG"
   feature_item:
-  - name: Bourses académiques
-    icon: ti-book
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
-  - name: Notre bureau
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
-  - name: Nos accomplissements
-    icon: ti-agenda
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
-  - name: Admission
-    icon: ti-write
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+  - name: Dépigeonnisation
+    icon: ti-twitter-alt
+    content: Nous proposons des solutions efficaces pour empêcher les pigeons de s&rsquo;installer
+      sur les toits de votre maison, ou de votre espace de travail.
+  - name: Désinfection
+    icon: ti-na
+    content: Nous éliminons et détruisons les germes et certains micro-organismes
+      infectieux. Nous utilisons des produits conformes aux normes mondiales de la
+      santé.
+  - name: Nettoyage
+    icon: ti-hummer
+    content: |-
+      Nettoyage de bureaux, entrepôts, hôtels, locaux publics, surface communes
+      Balayage, lavage de parking (moyens auto portés suivant la surface)
+      Entretien cantonnements, base de vie
+      Nettoyage de logement pendant les phases de travaux et de livraison
+      Nettoyage des vitres
+  - name: Filtration
+    icon: ti-filter
+    content: V3D offre toute une gamme de produits de filtration à destination des
+      professionnels et des particuliers qui ont besoin de traiter l'eau de leurs
+      puits ou de leurs réseaux actuels.
+  - name: Dératisation
+    icon: ti-na
+    content: Notre mission consiste à éliminer les rongeurs, rats et souris de vos
+      locaux d&rsquo;habitation ou de travail. Nous apportons des solutions professionnelles
+      préventives et curatives.
+  - name: Désinsectisation
+    icon: ti-na
+    content: Blattes, guêpes, frelons, puces, punaises de lits, fourmis, etc. Nous
+      éliminons toute sorte d&rsquo;insectes qui vous nui dans votre habitation ou
+      votre espace de travail.
 about:
   enable: true
   title: À propos d’Educenter
