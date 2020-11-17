@@ -8,58 +8,39 @@ themesDir = "../.."
 title = "V3D | Eco Solutions Pour Un habitat sain"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-home = "Home"
-languageCode = "en-us"
-languageName = "En"
+copyright = "Copyright &copy; 2020 V3D )"
+home = "Acceuil"
+languageCode = "fr-fr"
+languageName = "fr"
 weight = "2"
-[[Languages.en.menu.footer]]
-name = "teacher"
-url = "teacher"
-[[Languages.en.menu.footer]]
-name = "notice"
-url = "notice"
-[[Languages.en.menu.footer]]
-name = "event"
-url = "event"
-[[Languages.en.menu.footer]]
-name = "scholarship"
-url = "scholarship"
-[[Languages.en.menu.footer]]
-name = "research"
-url = "research"
 [[Languages.en.menu.main]]
-name = "About"
-url = "about"
-weight = 1
-[[Languages.en.menu.main]]
-name = "CATALOGE"
-url = "CATALOGE"
+name = "Catalogue De Produits"
+url = "course"
 weight = 2
 [[Languages.en.menu.main]]
 hasChildren = true
-name = "Pages"
+name = "Nos Services"
 weight = 3
 [[Languages.en.menu.main]]
-name = "teacher"
-parent = "Pages"
-url = "teacher"
+name = "Dératisation"
+parent = "Nos Services"
+url = "Deratisation"
 [[Languages.en.menu.main]]
-name = "notice"
-parent = "Pages"
-url = "notice"
+name = "Désinsectisation"
+parent = "Nos Services"
+url = "Desinsectisation"
 [[Languages.en.menu.main]]
-name = "event"
-parent = "Pages"
-url = "event"
+name = "Désinfection"
+parent = "Nos Services"
+url = "Desinfection"
 [[Languages.en.menu.main]]
-name = "scholarship"
-parent = "Pages"
-url = "scholarship"
+name = "Filtration"
+parent = "Nos Services"
+url = "Filtration"
 [[Languages.en.menu.main]]
-name = "research"
-parent = "Pages"
-url = "research"
+name = "Dépigeonnisation"
+parent = "Nos Services"
+url = "Depigeonnisation"
 [[Languages.en.menu.main]]
 name = "blog"
 url = "blog"
