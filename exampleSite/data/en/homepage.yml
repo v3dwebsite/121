@@ -54,6 +54,14 @@ banner_feature:
   enable: true
   image: "/images/zu.JPG"
   feature_item:
+  - name: Nettoyage
+    icon: ti-hummer
+    content: |-
+      Nettoyage de bureaux, entrepôts, hôtels, locaux publics, surface communes
+      Balayage, lavage de parking (moyens auto portés suivant la surface)
+      Entretien cantonnements, base de vie
+      Nettoyage de logement pendant les phases de travaux et de livraison
+      Nettoyage des vitres
   - name: Filtration
     icon: ti-filter
     content: V3D offre toute une gamme de produits de filtration à destination des
