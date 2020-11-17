@@ -100,11 +100,13 @@ course:
   title: Derniers produits ajoutés
 cta:
   enable: true
-  subtitle: Cliquez pour vous joindre à l’atelier avancé
-  title: Apprentissage en réseautique avancée
+  subtitle: ''
+  title: Si vous êtes à la recherche de spécialistes dans la dératisation,désinfection,
+    etc. n'hésitez pas de nous appeler à +212 661-786111 pour demander un diagnostic
+    GRATUIT!
   button:
     enable: true
-    label: Se joindre
+    label: C'EST GRATUIT!
     link: contact
 success_story:
   enable: true
