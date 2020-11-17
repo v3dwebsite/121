@@ -42,11 +42,11 @@ name = "Dépigeonnisation"
 parent = "Nos Services"
 url = "Depigeonnisation"
 [[Languages.en.menu.main]]
-name = "blog"
-url = "blog"
+name = "Qui sommes-nous?"
+url = "About"
 weight = 4
 [[Languages.en.menu.main]]
-name = "Contact"
+name = "Nous contacter"
 url = "contact"
 weight = 5
 [Languages.fr]
