@@ -88,7 +88,7 @@ banner_feature:
       sur les toits de votre maison, ou de votre espace de travail.
 about:
   enable: false
-  title: Derniers produits ajoutés
+  title: Derniers produits ajouté
   image: images/about/about-us.jpg
   content: Derniers produits ajoutés
   button:
