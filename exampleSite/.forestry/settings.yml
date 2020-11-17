@@ -47,7 +47,7 @@ sections:
   - course
 - type: directory
   path: exampleSite/content/english/course
-  label: Course (en)
+  label: NEXW
   create: documents
   match: "**/*"
   templates:
