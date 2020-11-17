@@ -112,14 +112,14 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
+Email = "Ericcoulon4@gmail.com"
+Mobile = "+212 661-786111"
 addresse = "474 Z.I. Sidi Ghanem Marrakech"
 auteur = "V3d"
 contact_form_action = "#"
 description = "V3D est l’une des spécialistes en matière de dératisation, désinsectisation désinfection capture des chats et chiens errant au Maroc."
-Email = "Ericcoulon4@gmail.com"
 google_analitycs_id = ""
 logo = "/images/4755.png"
-Mobile = " +212 661-786111"
 top_header = true
 [params.cookies]
 enable = false
