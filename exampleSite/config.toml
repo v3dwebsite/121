@@ -183,10 +183,6 @@ icon = "ti-facebook"
 link = "https://www.facebook.com/V3dMarrakech"
 title = "facebook"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "https://www.instagram.com/v3d_officiel/"
 title = "instagram"
