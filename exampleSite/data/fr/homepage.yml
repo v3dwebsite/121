@@ -113,7 +113,7 @@ success_story:
   bg_image: images/backgrounds/success-story.jpg
   title: Histoires de réussites
   content: ''
-  video_link: https://www.facebook.com/watch/?v=752571461972792
+  video_link: ''
 event:
   enable: true
   title: Événements à venir
